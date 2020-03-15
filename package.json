@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Gabriel3421/img_maker/issues"
   },
-  "homepage": "https://github.com/Gabriel3421/img_maker#readme"
+  "homepage": "https://github.com/Gabriel3421/img_maker#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
