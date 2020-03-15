@@ -1,0 +1,22 @@
+{
+  "name": "img_maker",
+  "version": "1.0.0",
+  "description": "robô criador de  imagens com frases variadas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabriel3421/img_maker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gabriel3421/img_maker/issues"
+  },
+  "homepage": "https://github.com/Gabriel3421/img_maker#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
