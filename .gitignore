@@ -109,5 +109,5 @@ credentials/*.json
 content.json
 
 content/*.png
-content/*.jpeg
+content/*.jpg
 content/*.svg
